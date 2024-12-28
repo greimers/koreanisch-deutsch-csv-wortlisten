@@ -3,6 +3,9 @@
 Dies ist eine Sammlung kostenloser Koreanisch Vokabel-Listen für alle, die Koreanisch lernen.
 Die Listen basieren auf meinem persönlichen Wortschatz, den ich mir über 10 Jahre zusammengstellt habe. Entsprechend veröffentliche ich regelmässig Aktualisierungen mit mehr Wörtern oder Korrekturen.
 
+## Download
+Wenn du nicht mit GitHub vertraut bist, gehe einfach zu [Releases](https://github.com/greimers/koreanisch-deutsch-csv-wortlisten/releases) und lade dir dort unter _Assets_ die Zip-Datei herunter.
+
 ## Struktur
 
 Der Basiswortschatz umfasst ca 1.200 Vokabeln mit den wichtigsten Wörtern aus alltäglichen Bereichen.
