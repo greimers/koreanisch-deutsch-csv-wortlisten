@@ -1,33 +1,36 @@
 # Koreanisch — Deutsch CSV Wortlisten
 
 Dies ist eine Sammlung kostenloser Koreanisch Vokabel-Listen für alle, die Koreanisch lernen.
-Die Listen basieren auf meinem persönlichen Wortschatz, den ich mir über 10 Jahre zusammengstellt habe. Entsprechend veröffentliche ich regelmässig Aktualisierungen mit mehr Wörtern oder Korrekturen.
+Die Listen basieren auf meinem persönlichen Wortschatz, den ich mir über 10 Jahre zusammengestellt habe. Entsprechend veröffentliche ich regelmässig Aktualisierungen mit mehr Wörtern oder Korrekturen.
 
 ## Download
+
 Wenn du nicht mit GitHub vertraut bist, gehe einfach zu [Releases](https://github.com/greimers/koreanisch-deutsch-csv-wortlisten/releases) und lade dir dort unter _Assets_ die Zip-Datei herunter.
+
 
 ## Struktur
 
-Der Basiswortschatz umfasst ca 1.200 Vokabeln mit den wichtigsten Wörtern aus alltäglichen Bereichen.
-Der Aufbauwortschatz enthält ca 3.500 weiterführende Vokabeln.
+Der Basiswortschatz umfasst ca 1.400 Vokabeln mit den wichtigsten Wörtern aus alltäglichen Bereichen.
+Der Aufbauwortschatz enthält ca 4.100 weiterführende Vokabeln.
 
 Die Wortlisten sind nach Themen in einzelnen Dateien mit jeweils ca 10–100 Wortpaaren gegliedert.
 Alle Vokabeln haben Themen-Tags, sodass die Wörter auch beim Import in einen Vokabeltrainer thematisch sortiert bleiben.
-Ausserdem haben viele Wörter, insebsondere Grammatik-Vokabeln Kommentare mit mehr Details.
+Ausserdem haben viele Wörter, insbesondere Grammatik-Vokabeln, Kommentare mit mehr Details.
 
-Die CSV Struktur sieht folgendermassen aus:
+Die CSV-Struktur sieht folgendermassen aus:
 
 ```
 "<Koreanisch>";"<Deutsch>";"<Kommentar";"Tag";"Tag";"Tag"
 ```
 
+
 ## Lernempfehlungen
 
-Generell empfehle ich, die Wortlisten einzeln nach Thema zu lernen und nicht zu versuchen, mehrere tausend Vokabeln auf einmal zu lernen (denn das wird nicht funktionieriern und ist nur frustrierend).
+Generell empfehle ich, die Wortlisten einzeln nach Thema zu lernen und nicht zu versuchen, mehrere tausend Vokabeln auf einmal zu lernen (denn das wird kaum funktionieren und ist dann nur frustrierend).
 
 Die Grammatik Vokabeln enthalten alle Kommentare mit kurzer Erklärung und Beispielen.
 Für mehr Details empfehle ich die Buchreihe "Koreanische Grammatik im Gebrauch". 
-Viele der Grammatik-Vokabeln enthalten auch eine Referez zum entsprechenden Kapitel mit Seitenzahl abgekürzt als "KGiG".
+Viele der Grammatik-Vokabeln enthalten auch eine Referenz zum entsprechenden Kapitel mit Seitenzahl abgekürzt als "KGiG".
 
 
 ## Beste Vokabel-Lern App
@@ -44,9 +47,9 @@ Der umfasst die 200 wichtigsten Wörter um sich in Korea durchzuschlagen.
 
 
 ## Lizenz
-Diese Sammlung von Wortlisten ist lizensiert unter der [Creative Commons CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) Lizenz (Namensnennung-Nicht Kommerziell Share-Alike 4.0 International).
+Diese Sammlung von Wortlisten ist lizenziert unter der [Creative Commons CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de) Lizenz (Namensnennung-Nicht Kommerziell Share-Alike 4.0 International).
 
-© 2024 Gabriel Reimers, github.com/greimers/koreanisch-deutsch-csv-wortlisten
+© 2024–2025 Gabriel Reimers, github.com/greimers/koreanisch-deutsch-csv-wortlisten
 
 Du darfst das Material nutzen, teilen und bearbeiten unter folgenden Voraussetzungen:
 * **Namensnennung** — Du musst angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.

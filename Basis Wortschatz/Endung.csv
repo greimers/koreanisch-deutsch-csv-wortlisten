@@ -16,7 +16,7 @@ Honorativ mit 드리다.";"basis";"endung";"grammatik"
 "...아/어 주세요";"...bitte";"z.B. 문 좀 닫아 주세요.
 Honorativ: …아/어 드리세요.";"basis";"endung";"grammatik";"honorativ"
 "...용";"...Nutzung";;"basis";"endung"
-"...며";"...und";;"basis";"endung";"grammatik"
+"...며";"...und";"Gleich zu …고 aber eher in Schriftsprache oder in längeren Aufzählungen.";"basis";"endung";"grammatik"
 "...면 되다";"... möglich sein / erlaubt sein";"Etwas ist erlaubt oder möglich.
 z.B.
 내일 만나면 돼요.";"basis";"endung";"grammatik"
@@ -37,12 +37,14 @@ z.B.
 KGiG 1/319";"basis";"endung";"grammatik"
 "...라고 해요";"...<indirekte Rede imperativ>";"z.B.
 지금 오라고 해요.";"basis";"endung";"grammatik"
-"...기";"...<Nomen Endung>";"Macht aus Verben Nomen.
+"...기";"...<Substantivierung>";"Macht aus Verben Nomen.
 z.B.
-운동하기 좋아해요.";"basis";"endung";"grammatik"
+운동하기 좋아해요.
+KGiG 1/275";"basis";"endung";"grammatik"
 "...게";"...<adverb endung>";"Macht aus einem Verb ein Adjektiv.
 z.B.
-편하게 살고 있어요.";"basis";"endung";"grammatik"
+편하게 살고 있어요.
+KGiG 1/278";"basis";"endung";"grammatik"
 "...네요";"...wirklich / <überrascht>";"Drückt Überraschung oder Erstaunen aus.
 zB. 독일어를 정말 잘해요!
 Eher informell.";"basis";"endung";"grammatik"

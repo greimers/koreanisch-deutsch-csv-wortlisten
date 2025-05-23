@@ -9,7 +9,8 @@
 "통화하다";"telefonieren";;"basis";"kommunikation"
 "주의";"der Rat / die Warnung";;"basis";"kommunikation";"sozial"
 "문자";"die Nachricht";;"basis";"kommunikation"
-"지나치다";"übertreiben";;"basis";"kommunikation";"modal"
+"지나치다";"übermässig sein";"z.B. 지나친 음주
+Aber auch, wenn man eine Haltestelle verpasst: 내려야 할 곳을 지나치다";"basis";"kommunikation";"modal"
 "내용";"der Inhalt";;"basis";"kommunikation";"kultur"
 "알리다";"informieren";;"basis";"kausativ";"kommunikation"
 "대화";"der Dialog";;"basis";"kommunikation"
